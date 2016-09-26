@@ -10,7 +10,6 @@ namespace SpicyInvader
     {
         static void Main(string[] args)
         {
-            Console.CursorVisible = false;
             Console.SetWindowSize(68, 30);
             Console.SetBufferSize(68, 30);
             Menu mainMenu = new Menu();
