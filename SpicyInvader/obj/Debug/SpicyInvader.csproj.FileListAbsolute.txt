@@ -10,3 +10,6 @@ E:\DATA\issolahma\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
 E:\DATA\issolahma\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe
 E:\DATA\issolahma\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.pdb
 E:\DATA\issolahma\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.csprojResolveAssemblyReference.cache
+E:\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
+E:\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.exe
+E:\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
