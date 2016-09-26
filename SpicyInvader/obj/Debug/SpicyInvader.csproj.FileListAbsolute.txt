@@ -19,3 +19,9 @@ E:\GitHub\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
 E:\GitHub\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.exe
 E:\GitHub\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
 >>>>>>> origin/master
+E:\Git\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
+E:\Git\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.exe
+E:\Git\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
+E:\Git\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.exe
+E:\Git\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.pdb
+E:\Git\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.csprojResolveAssemblyReference.cache
