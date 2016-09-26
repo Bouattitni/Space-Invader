@@ -22,7 +22,7 @@ namespace SpicyInvader
 
         // Print ennemy
         public void PrintEnnemy()
-        {
+        { 
             Console.SetCursorPosition(posX, posY);
             Console.ForegroundColor = ConsoleColor.White;
             Console.Write(skin);
