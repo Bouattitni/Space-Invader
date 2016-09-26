@@ -1,14 +1,19 @@
 ﻿/// Auteur : Loïc Herzig
-/// Date : 29.08.16
+/// Date : 5.09.16
 /// Description : Classe qui fait spawn le bonus aléatoirement dans une plage de 0 à 60 secondes
-/// V1.0 : Spawn une fois et disparait
-/// V2.0 : Ajout d'un respawn aléatoire entre 0 et 60 secondes
+/// V1.0 : 
+///     Date : 12.09.16
+///     Description : Spawn une fois et disparait
+/// 
+/// V2.0 : 
+///     Date : 26.09.2016
+///     Description : Ajout d'un respawn aléatoire entre 0 et 60 secondes
 
 using System;
 using System.Timers;
 
 
-namespace SpicyInvader
+namespace UFOBonus
 {
     class UFOBonus
     {
@@ -28,12 +33,12 @@ namespace SpicyInvader
         /// Construceur sans propriété
         /// </summary>
         public UFOBonus()
-        { }
+        {}
 
         /// <summary>
         /// Fait spawn un bonus
         /// </summary>
-        public void Spawn()
+        public void Spawn ()
         {
             //Fait pop le vaisseau
             Console.SetCursorPosition(0, POSITION_TOP_UFO_BONUS);
@@ -41,13 +46,13 @@ namespace SpicyInvader
             Console.Write(UFO_BONUS);
 
             //Appelle la méthode de déplacement
-            Move();
+            Move();          
         }
 
         /// <summary>
         /// Arrête le timer
         /// </summary>
-        private void Respawn(object source, ElapsedEventArgs e)
+        private void Respawn (object source, ElapsedEventArgs e)
         {
             //Désactive le timer pour pas qu'il respawn un deuxième en même temps
             timerRandomUFOBonus.Enabled = false;
@@ -123,4 +128,3 @@ namespace SpicyInvader
 
     }
 }
-
