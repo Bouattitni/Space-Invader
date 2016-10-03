@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4D837CCC-B9D3-4BC6-A101-0A8A7DE7B031}</ProjectGuid>
+    <ProjectGuid>{C138CF90-5EA3-4466-88F0-1C2419E8E6E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SpicyInvader</RootNamespace>
@@ -49,7 +49,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Ship.cs" />
-    <Compile Include="Timer.cs" />
     <Compile Include="UFOBonus.cs" />
   </ItemGroup>
   <ItemGroup>

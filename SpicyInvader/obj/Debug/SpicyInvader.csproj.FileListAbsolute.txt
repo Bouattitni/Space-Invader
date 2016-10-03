@@ -1,27 +1,11 @@
-H:\Projet\P_Dev\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
-H:\Projet\P_Dev\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.csprojResolveAssemblyReference.cache
-H:\Projet\P_Dev\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe
-H:\Projet\P_Dev\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.pdb
-H:\Projet\P_Dev\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.exe
-H:\Projet\P_Dev\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
-E:\DATA\issolahma\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
-E:\DATA\issolahma\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.exe
-E:\DATA\issolahma\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
-E:\DATA\issolahma\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe
-E:\DATA\issolahma\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.pdb
-E:\DATA\issolahma\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.csprojResolveAssemblyReference.cache
-<<<<<<< HEAD
-E:\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
-E:\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.exe
-E:\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
-=======
-E:\GitHub\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
-E:\GitHub\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.exe
-E:\GitHub\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
->>>>>>> origin/master
-E:\Git\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
-E:\Git\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.exe
-E:\Git\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
-E:\Git\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.exe
-E:\Git\Spycinvader\SpicyInvader\bin\Debug\SpicyInvader.pdb
-E:\Git\Spycinvader\SpicyInvader\obj\Debug\SpicyInvader.csprojResolveAssemblyReference.cache
+C:\Users\herziglo\Desktop\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
+C:\Users\herziglo\Desktop\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe
+C:\Users\herziglo\Desktop\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.pdb
+C:\Users\herziglo\Desktop\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.exe
+C:\Users\herziglo\Desktop\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
+E:\Projets\spicy invader\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe.config
+E:\Projets\spicy invader\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.exe
+E:\Projets\spicy invader\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.pdb
+E:\Projets\spicy invader\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.exe
+E:\Projets\spicy invader\SpicyInvader\SpicyInvader\bin\Debug\SpicyInvader.pdb
+E:\Projets\spicy invader\SpicyInvader\SpicyInvader\obj\Debug\SpicyInvader.csprojResolveAssemblyReference.cache

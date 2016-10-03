@@ -33,12 +33,12 @@ namespace SpicyInvader
         /// Construceur sans propriété
         /// </summary>
         public UFOBonus()
-        {}
+        { }
 
         /// <summary>
         /// Fait spawn un bonus
         /// </summary>
-        public void Spawn ()
+        public void Spawn()
         {
             //Fait pop le vaisseau
             Console.SetCursorPosition(0, POSITION_TOP_UFO_BONUS);
@@ -46,13 +46,13 @@ namespace SpicyInvader
             Console.Write(UFO_BONUS);
 
             //Appelle la méthode de déplacement
-            Move();          
+            Move();
         }
 
         /// <summary>
         /// Arrête le timer
         /// </summary>
-        private void Respawn (object source, ElapsedEventArgs e)
+        private void Respawn(object source, ElapsedEventArgs e)
         {
             //Désactive le timer pour pas qu'il respawn un deuxième en même temps
             timerRandomUFOBonus.Enabled = false;
