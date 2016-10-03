@@ -1,8 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/// Auteur : Bouattit Nikola
+/// Date : 0.3.10.2016
+/// Description : Classe qui permet de déplacer le vais0
+/// .
+
+using System;
 
 namespace SpicyInvader
 {
