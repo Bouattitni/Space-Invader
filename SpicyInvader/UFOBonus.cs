@@ -13,7 +13,7 @@ using System;
 using System.Timers;
 
 
-namespace UFOBonus
+namespace SpicyInvader
 {
     class UFOBonus
     {
