@@ -1,6 +1,6 @@
-﻿/// Auteur : Bouattit Nikola
-/// Date : 0.3.10.2016
-/// Description : Classe qui permet de déplacer le vais0
+﻿// Auteur : Bouattit Nikola
+// Date : 0.3.10.2016
+// Description : Classe qui permet de déplacer le vais0
 using System;
 
 namespace SpicyInvader
@@ -27,6 +27,7 @@ namespace SpicyInvader
                     case ConsoleKey.LeftArrow:
                         if (i > 0)
                         {
+                            //sert a déplacer le vaisseau sur la gauche
                             Console.MoveBufferArea(i, j, largeur, hauteur, i - 1, j);
                             i--;
                         }
@@ -34,6 +35,7 @@ namespace SpicyInvader
                     case ConsoleKey.RightArrow:
                         if (i < Console.WindowWidth - largeur)
                         {
+                            //sert a déplacer le vaisseau sur la droite
                             Console.MoveBufferArea(i, j, largeur, hauteur, i + 1, j);
                             i++;
                         }
